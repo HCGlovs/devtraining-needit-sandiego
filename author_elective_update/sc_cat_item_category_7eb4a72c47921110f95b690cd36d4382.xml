@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="New user">12246fe847921110f95b690cd36d4340</sc_cat_item>
+        <sc_category display_value="Office">109cdff8c6112276003b17991a09ad65</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 18:11:48</sys_created_on>
+        <sys_id>7eb4a72c47921110f95b690cd36d4382</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office.New user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_category_7eb4a72c47921110f95b690cd36d4382</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-29 18:11:48</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1fe7d444db4bd340439ef70fbf9619fb</instance_id>
+        <instance_name>dev62806</instance_name>
+        <name>sc_cat_item_category_7eb4a72c47921110f95b690cd36d4382</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="New user">12246fe847921110f95b690cd36d4340</sc_cat_item><sc_category display_value="Office">109cdff8c6112276003b17991a09ad65</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-29 18:11:48</sys_created_on><sys_id>7eb4a72c47921110f95b690cd36d4382</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Office.New user</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_category_7eb4a72c47921110f95b690cd36d4382</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-29 18:11:48</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1107843185</payload_hash>
+        <record_name>Office.New user</record_name>
+        <reverted_from/>
+        <source>2cf3b452478a1110f95b690cd36d439f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 18:11:48</sys_created_on>
+        <sys_id>b2b4a72c47921110f95b690cd36d4386</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1838a7294170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-29 18:11:48</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>3ab4a72cb49211105615b869fc599885</update_guid>
+        <update_guid_history>3ab4a72cb49211105615b869fc599885:1107843185</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Office.New user">2706ab6c47921110f95b690cd36d43bc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 18:17:36</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0f10689d747b4d788525be769da40979</sys_id>
+        <sys_metadata>7eb4a72c47921110f95b690cd36d4382</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office.New user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_7eb4a72c47921110f95b690cd36d4382</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_7eb4a72c47921110f95b690cd36d4382">b2b4a72c47921110f95b690cd36d4386</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-29 18:17:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
